@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=
+Exec=\ssh /usr/share/evernight-vista-tools/install-nvidia-latest-sec.sh
+GenericName=Install Latest NVidia Driver for Secure Boot User
+GenericName[zh_CN]=直接安装英伟达显卡驱动（最新版本，适用于安全启动的用户）
+Icon=nvidia
+Name=Install NVidia Driver (Latest) with Secure Boot
+Name[zh_CN]=一键安装NVIDIA驱动（最新版本，包含安全启动支持）
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Utility

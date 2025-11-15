@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=
+Exec=\ssh /usr/share/evernight-vista-tools/install-midi.sh
+GenericName=Install MIDI Playback Support
+GenericName[zh_CN]=直接安装MIDI播放支持
+Icon=kcmmidi
+Name=Install MIDI Play Support
+Name[zh_CN]=一键安装MIDI播放支持
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Utility

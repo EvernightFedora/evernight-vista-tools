@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=
+Exec=\ssh /usr/share/evernight-vista-tools/install-extra-linglong.sh
+GenericName=Install Extra Linglong for easier use linglong
+GenericName[zh_CN]=补充如意玲珑组件，使其更简单的使用如意玲珑
+Icon=linglong-store
+Name=Install Extra Linglong
+Name[zh_CN]=补充如意玲珑组件
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Utility
