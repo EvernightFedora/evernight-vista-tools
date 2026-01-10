@@ -1,6 +1,6 @@
 [Desktop Entry]
 Categories=Qt;KDE;System;
-Exec=pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY xdg-open /root
+Exec=pkexec env DISPLAY=$DISPLAY XAUTHORITY=$XAUTHORITY dolphin
 GenericName[zh_CN]=使用root（根账户）打开文件管理器
 GenericName=File Manager run as root
 GenericName[ast]=File Manager run as root
