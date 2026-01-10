@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=
+Exec=\ssh /usr/share/evernight-vista-tools/install-extra-fonts.sh
+GenericName=Install Extra need Fonts
+GenericName[zh_CN]=直接安装补充字体
+Icon=preferences-desktop-font-installer
+Name=Install Extra Fonts
+Name[zh_CN]=一键安装补充字体
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Utility

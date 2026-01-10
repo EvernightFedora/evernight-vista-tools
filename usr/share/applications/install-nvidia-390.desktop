@@ -1,0 +1,18 @@
+[Desktop Entry]
+Comment=
+Exec=\ssh /usr/share/evernight-vista-tools/install-nvidia-390.sh
+GenericName=Install NVidia Driver (Version 390)
+GenericName[zh_CN]=直接安装英伟达显卡驱动（版本390）
+Icon=nvidia
+Name=Install NVidia Driver (Ver.390)
+Name[zh_CN]=一键安装NVIDIA驱动（版本390）
+NoDisplay=false
+Path=
+PrefersNonDefaultGPU=false
+StartupNotify=true
+Terminal=true
+TerminalOptions=
+Type=Application
+X-KDE-SubstituteUID=false
+X-KDE-Username=
+Categories=Utility
