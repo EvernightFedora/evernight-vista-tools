@@ -5,7 +5,7 @@ mokutil --sb-state
 echo 你现在有5秒钟的时间，可以按下Ctrl+C取消本次安装nvidia显卡驱动
 sleep 5
 echo 请稍候......正在自动安装
-sudo dnf install xorg-x11-drv-nvidia.x86_64 xorg-x11-drv-nvidia-cuda.x86_64 nvidia-settings.x86_64 kmodtool akmods openssl -y
+sudo dnf install akmods-evernight xorg-x11-drv-nvidia.x86_64 xorg-x11-drv-nvidia-cuda.x86_64 nvidia-settings.x86_64 kmodtool akmods openssl -y
 echo 请稍候，正在生成MOK密钥
 sudo kmodgenca -a
 echo 请提供一个密码，然后请记住这个密码，稍后重启时需要使用！
